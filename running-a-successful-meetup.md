@@ -50,16 +50,71 @@ No matter how you want to use it, it's recommended to at least post when you've 
 
 ## How do I get people to speak?
 
-This section needs some tips. Got any? Please submit a PR if so 🙏
+The easiest way to get speakers is to ask!
+
+On your Meetup page you should have a speaker sign up form prominently displayed. In every meetup you can link to this form. The reason someone doesn't speak _should never_ be because they didn't know how to sign up.
 
 Feel free to copy this [talk proposal template](./templates/talk-proposal.md) and edit it to fit your needs. Many meetup organizers use [Google Forms](https://www.google.com/forms/about/) since it's easy and free, but feel free to use whatever you'd like.
 
+Finding regular speakers may take some time and persistence, but there are lots of people who want to give talks. Many have never given a technical talk before, especially not to a group of strangers. Do everything you can to lower the barrier of entry for people giving their first talk (lightning talks are a good way to do this).
+
+The best time to ask for speakers is at each meetup. You already have a captive audience of people who want to be there and want to talk about Remix and web development. If someone is thinking about giving a talk, it may be much easier for them to talk to you in person about their idea, whereas they may forget about it during the week.
+
+A good tip is to show a slide with a bunch of ideas for topics. Something like the following could be used:
+
+- a11y in Remix (Accessibility)
+- i18n in Remix (Internationalization)
+- Demo a cool technology with Remix
+- Lighting talks
+  - Nested routing
+  - Cookies
+  - Styling strategies in Remix
+  - Optimistic UI
+  - MDX in Remix
+  - Deploying Remix on X
+  - Demo a cool project you’ve built!
+
 ### What if I don't have a speaker this month?
+
+For many meetup organizers they become the default backup speaker for month's where they can't find someone. If you enjoy giving talks, and you are receiving positive feedback on your talks, this can be fine. Most meetup organizers try to limit the amount of talks they give, since the purpose of a local meetup is to build community, not an audience.
+
+A good option for meetups where you don't have a speaker is to host a small workshop or mini hackathon. This takes a little prep work, and is best accomplished with the help of others. I simple format could be something like the following:
+
+- **Goal**: Build a simple restaurant checkout flow in Remix
+- **Requirements**: Must have a landing page, a product page, and a working checkout flow
+- **What you're given**: Template with a SQLite data base and some wireframes
+
+The key with a workshop or hackathon is to be very aware of time. It's better to ask groups to do too little than too much. It's also ideal to let groups share at the end of the night what they built and what they learned.
+
+Another good tip if you do something like this is ask experienced engineers and members of the community to act as team leads ahead of time, so they can come in prepared.
 
 ## How do I find a host/sponsor?
 
-This section needs some tips. Got any? Please submit a PR if so 🙏
+Just like finding a speaker, the best thing to do is to ask!
+
+Many organizers get their company to host and/or sponsor. For some organizers this won't work given the size or lack of an office.
+
+When trying to find a host/sponsor look into the well known companies in your city. This could be a well known tech company like Shopify, or it could even be a local, but well known tech company with office space. See if you have any connections with engineers working at these companies, or reach out to a dev advocate or facilities managers. The worst a company can do is say no.
+
+When trying to convince a company to host/sponsor, it's a good idea to phrase the meetup in terms of why it would benefit them. If their company uses Remix or React Router, that may be a very entry point. But even if they don't, many companies use React, or at the very least develop on the Web, so it can be a good community for their employees. Other benefits to companies is exposure for recruiting or for their services. Offer guaranteed speaking time or a slide for every host/sponsor so there is a mutual benefit to the relationship.
 
 ## I'm getting burned out, what do I do?
 
-This section needs some tips. Got any? Please submit a PR if so 🙏
+Running a meetup can be a lot of work, and while many find it very rewarding, there are times where it can feel pretty thankless. Just like with anything, it's easy to lose the spark and sense of fulfillment that first drew you in, and it can be especially hard to push through when it's something you're volunteering your personal time doing.
+
+The first thing to recognize is it's okay to experience burnout. It doesn't mean anything bad about you, and it doesn't mean you're some sort of "failure" or that you're going to "let people down". Take care of yourself first and foremost.
+
+When processing burnout, it might be good to take a month off from the meetup. Another option is to use a meetup event as a "social meetup", where you invite folks to meet for dinner or drinks. This can turn what has felt like a chore into something enjoyable again, and give you a moment to pause and reflect.
+
+Once you've given yourself a second to breath, take a few minutes to ask yourself the following questions, or find someone you trust and who knows you well to ask you the following:
+
+1. Do I want the meetup to continue
+2. Do I want to be part of organizing this meetup going forward
+
+If the answer is yes to 1 and 2, you likely need to either descale what the meetup involves, or ask for help. Descaling will be specific to your meetup, and a helpful exercise may be imaging what a sustainable meetup would look like. In either case, if you have been running a meetup for a while and have started developing relationships with the members, go ahead and ask some of the most trusted ones for help.
+
+When asking for help, it's good to be specific. If someone picked up the food for you each week would that help you keep the meetup going? Then ask for that. Help doesn't have to be a big thing, and many people are more than willing to help out.
+
+If you said yes to 1, and no to 2, then start asking members if anyone would like to take over the meetup. If you have the energy offer to mentor the new organizer(s) and maybe even share responsibilities for the next few meetups. This can help make the ask less daunting. If you are completely burned out and don't think you can oversee a transition, start asking for someone to take over the meetup ASAP.
+
+If you said no to 1 and 2, first please ask if someone else would like to take over the meetup, as there may be members interested in it's continued existence. If there is no one, and you're ready to retire the meetup, please reach out to Brooks Lybrand so he can officially shut it down.
