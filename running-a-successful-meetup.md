@@ -1,5 +1,7 @@
 # Running a Successful Meetup
 
+Wanting to start a new meetup? Be sure to read [Starting a New Remix Meetup](./starting-a-new-meetup.md) first and then come back to this guide.
+
 As a Remix Meetup organizer, you're empowered and responsible to run your meetup as you see fit. Cater your meetup to your attendees, city, and culture.
 
 There's no "Remix Meetup" formula you have to follow. Many successful meetups incorporate these 4 elements elements:
@@ -12,6 +14,19 @@ There's no "Remix Meetup" formula you have to follow. Many successful meetups in
 There are meetups that also have their own websites, run hackathons, and cross-organize with other meetups. This guide is a starting point for those new to organizing a meetup. This guide is also a place for other meetup organizers to share any tips and tricks they've learned.
 
 If you feel like something is missing, please open up a PR and contribute.
+
+## Scheduling your first event
+
+It's up to you when and how you want to launch your meetup. For many organizers they go through the [Starting a New Remix Meetup](./starting-a-new-meetup.md) guide and the immediately set a date and create their first event, then figure out the rest from there.
+
+This can work, but it can also lead to softer launch than you may desire, and even potentially early [burnout](#im-getting-burned-out-what-do-i-do). Remix Tokyo organizer, [Coji Mizoguchi](https://twitter.com/techtalkjp) has a suggested formula to help kick your group off on a solid footing:
+
+1. Reach out directly to 1-2 well-known regional folks to secure them as featured guests/speakers
+2. Tentatively set the date and location based on the featured guests' availability
+3. Reach out to a few other notable people letting them know the featured guests are participating
+4. Once you have ~5 speaker commitments, officially announce the meetup and open registration
+
+This approach helps ensure strong attendance and value for participants.
 
 ## How do I get people to come?
 
