@@ -78,7 +78,7 @@ A good tip is to show a slide with a bunch of ideas for topics. Something like t
 
 For many meetup organizers they become the default backup speaker for month's where they can't find someone. If you enjoy giving talks, and you are receiving positive feedback on your talks, this can be fine. Most meetup organizers try to limit the amount of talks they give, since the purpose of a local meetup is to build community, not an audience.
 
-A good option for meetups where you don't have a speaker is to host a small workshop or mini hackathon. This takes a little prep work, and is best accomplished with the help of others. I simple format could be something like the following:
+A good option for meetups where you don't have a speaker is to host a small workshop or mini hackathon. This takes a little prep work, and is best accomplished with the help of others. A simple format could be something like the following:
 
 - **Goal**: Build a simple restaurant checkout flow in Remix
 - **Requirements**: Must have a landing page, a product page, and a working checkout flow
