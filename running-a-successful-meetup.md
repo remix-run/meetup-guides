@@ -103,6 +103,10 @@ The key with a workshop or hackathon is to be very aware of time. It's better to
 
 Another good tip if you do something like this is ask experienced engineers and members of the community to act as team leads ahead of time, so they can come in prepared.
 
+As a last resort, you can always dedicate a meetup as a socializing event - a chance to simply chat with others, network, and get to the know people in the community. It's helpful to mention at the beginning of the meetup that this type of event is an exception, ensuring that newcomers have accurate expectations for future meetups.
+
+Meetups thrive on consistency, so putting time in to organize a quick workshop/hackathon or simply having a dedicated time to converse with each other is much better for the health of your meetup than cancelling an event.
+
 ## How do I find a host/sponsor?
 
 Just like finding a speaker, the best thing to do is to ask!
