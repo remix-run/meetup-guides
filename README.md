@@ -1,6 +1,6 @@
 # Remix Meetup Guides
 
-<a href="https://www.meetup.com/pro/remix-run/" target="_blank" rel="noopener">
+<a href="https://www.meetup.com/pro/remix-run/">
     <img src="./assets/the-world.png" alt="Map of the world with red dots representing various Remix meetups">
 </a>
 
