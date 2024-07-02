@@ -1,6 +1,8 @@
 # Remix Meetup Guides
 
-🚧 This document/repo is currently under progress. The plan is to build a handful of resources for running a Meetup that will be useful for other organizers 🚧
+<a href="https://www.meetup.com/pro/remix-run/" target="_blank" rel="noopener">
+    <img src="./assets/the-world.png" alt="Map of the world with red dots representing various Remix meetups">
+</a>
 
 This repository is a collection of guides for running a Remix meetup.
 
