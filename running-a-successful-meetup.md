@@ -109,6 +109,8 @@ Meetups thrive on consistency, so putting time in to organize a quick workshop/h
 
 ## How do I find a host/sponsor?
 
+For a more comprehensive guide, checkout ["Getting Meetup Sponsors"](https://michellebakels.hashnode.dev/getting-meetup-sponsors) by [Michelle Bakels](https://x.com/MichelleBakels).
+
 Just like finding a speaker, the best thing to do is to ask!
 
 Many organizers get their company to host and/or sponsor. For some organizers this won't work given the size or lack of an office.
